@@ -11,9 +11,10 @@ a
     color: #0083e8;
 }
 
-div
+.toppage
 {
     display:block;
+    width:100%;
 }
 h1
 {
@@ -34,8 +35,6 @@ h2
 {
     display: inline-block;
     vertical-align: top;
-    max-width:230px;
-    max-height:95px;
     width: auto;
     height: auto;
     align:right;
