@@ -35,13 +35,13 @@ h2
     float:right;
 }
 
-div {height:100%}
 .bar
 {
     display:block;
     background-color:black;
     height:45px;
     width:100%;
+    overflow:hidden;
 }
 
 .dropdown
