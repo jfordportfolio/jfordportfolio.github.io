@@ -13,7 +13,7 @@ a
 
 h1
 {
-    font-size: 64px;
+    font-size: 55px;
 }
 
 h2
@@ -30,7 +30,7 @@ h2
     display: inline-block;
     vertical-align: top;
     width:60%;
-    height:10%;
+    height:55px;
     align:right;
     float:right;
 }
