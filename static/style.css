@@ -17,12 +17,12 @@ a
     {
     display: inline-block;
     vertical-align: top;
-    width: 46%;
+    width: 40%;
   }
   &__text
     {
     display: inline-block;
-    width: 46%;
+    width: 60%;
     @media (max-width: 620px) {
       width: 100%;
     }
