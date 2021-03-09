@@ -17,18 +17,23 @@ h1
 
 h2
 {
-    font-size: 48px;
+    font-size: 36px;
+    align: center;
+}
+
+.banner
+{
+    display: inline-block;
+    vertical-align: top;
+    width:60%;
+    align:right;
+    float:right;
 }
 
 .bar
 {
-  &__img
-    {
-    display: inline-block;
-    vertical-align: top;
-    width: 60%;
-    float:right;
-  }
+    background-color:black;
+    height:40px;
 }
 
 .dropdown
@@ -71,4 +76,13 @@ h2
 .dropbtn:hover
 {
   background-color: gray;
+}
+
+footer
+{
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
 }
