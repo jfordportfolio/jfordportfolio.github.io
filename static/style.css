@@ -34,7 +34,10 @@ h2
 {
     display: inline-block;
     vertical-align: top;
-    height:55px;
+    max-width:230px;
+    max-height:95px;
+    width: auto;
+    height: auto;
     align:right;
     float:right;
 }
