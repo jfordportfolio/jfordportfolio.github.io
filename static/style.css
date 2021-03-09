@@ -63,7 +63,7 @@ h2
 
 .dropdown-content a:hover {background-color: #ddd;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #ddd;}
+.dropdown:hover .dropbtn {background-color: #A9A9A9;}
 
 .dropbtn
 {
