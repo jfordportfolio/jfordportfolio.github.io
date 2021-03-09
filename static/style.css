@@ -34,3 +34,17 @@ a
 {
     color: #0083e8;
 }
+
+.dropbtn
+{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.dropbtn:hover
+{
+  background-color: gray;
+}
