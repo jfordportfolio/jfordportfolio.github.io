@@ -1,14 +1,23 @@
-
 body
 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10px;
+    font-size: 16px;
     line-height: 1.5;
 }
 
 a
 {
     color: #0083e8;
+}
+
+h1
+{
+    font-size: 72px;
+}
+
+h2
+{
+    font-size: 48px;
 }
 
 .bar
