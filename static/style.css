@@ -11,6 +11,24 @@ a
     color: #0083e8;
 }
 
+.bar
+{
+  &__img
+    {
+    display: inline-block;
+    vertical-align: top;
+    width: 46%;
+  }
+  &__text
+    {
+    display: inline-block;
+    width: 46%;
+    @media (max-width: 620px) {
+      width: 100%;
+    }
+  }
+}
+
 .dropdown
 {
   position: relative;
