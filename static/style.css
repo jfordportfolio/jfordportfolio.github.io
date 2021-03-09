@@ -11,18 +11,12 @@ a
     color: #0083e8;
 }
 
-.toppage
-{
-    display:block;
-    width:100%;
-}
 h1
 {
     position:relative;
     font-size: 55px;
     width:20%;
     float:left;
-    display:block;
 }
 
 h2
@@ -35,7 +29,6 @@ h2
 .banner
 {
     position:relative;
-    display: inline-block;
     vertical-align: top;
     width: auto;
     height: auto;
