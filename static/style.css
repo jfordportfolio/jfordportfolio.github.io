@@ -13,7 +13,6 @@ a
 
 h1
 {
-    position:relative;
     font-size: 55px;
     width:20%;
     float:left;
@@ -28,7 +27,6 @@ h2
 
 .banner
 {
-    position:relative;
     vertical-align: top;
     width: auto;
     height: auto;
@@ -37,7 +35,6 @@ h2
 
 .bar
 {
-    display:block;
     background-color:black;
     height:45px;
     width:100%;
