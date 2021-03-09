@@ -35,6 +35,7 @@ h2
     float:right;
 }
 
+div {height:100%}
 .bar
 {
     display:block;
