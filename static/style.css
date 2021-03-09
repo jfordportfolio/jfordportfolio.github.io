@@ -11,6 +11,10 @@ a
     color: #0083e8;
 }
 
+div
+{
+    display:block;
+}
 h1
 {
     font-size: 55px;
