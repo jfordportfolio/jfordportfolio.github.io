@@ -17,15 +17,11 @@ h1
     float:left;
 }
 
-div
-{
-    height:auto;   
-}
-
 h2
 {
     font-size: 35px;
     text-align: center;
+    vertical-align:center;
     color:white;
 }
 
