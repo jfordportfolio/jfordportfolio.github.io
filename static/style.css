@@ -3,6 +3,7 @@ body
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
+    display:block;
 }
 
 a
@@ -26,14 +27,17 @@ h2
     display: inline-block;
     vertical-align: top;
     width:60%;
+    height:10%;
     align:right;
     float:right;
 }
 
 .bar
 {
+    display:block;
     background-color:black;
     height:40px;
+    width:100%;
 }
 
 .dropdown
