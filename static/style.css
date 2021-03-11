@@ -32,7 +32,7 @@ p
 
 .toppage
 {
-    position:fixed;
+    position:static;
     width:100%;
     top: 0;
     left: 0;
@@ -40,12 +40,15 @@ p
     background-color: gray;
     justify-content: center;
     margin:0px 0px 0px 0px;
+    padding-left: 20px;
 }
 
 .bar
 {
     position:sticky;
     top:60px;
+    left: 0;
+    right: 0;
     height:45px;
     width:100%;
     background-color:black;
@@ -56,19 +59,10 @@ p
     margin:0px 0px 0px 0px;
 }
 
-.navig
-{
-    position:sticky;
-    top:60px;
-    height:45px;
-    width:100%;
-    background-color:black;
-    margin:0px 0px 0px 0px;
-}
-
 .dropdown
 {
-  position: relative;
+  position: absolute;
+    left: 5px;
   display: inline-block;
 }
 
