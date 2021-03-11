@@ -16,6 +16,11 @@ a
     color: #0083e8;
 }
 
+h2
+{
+    color:white;
+}
+
 .toppage
 {
     position:fixed;
@@ -36,7 +41,7 @@ a
 
 .dropdown
 {
-  position: relative;
+  position: absolute;
   display: inline-block;
 }
 
