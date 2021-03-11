@@ -35,6 +35,8 @@ p
     position:fixed;
     width:100%;
     background-color: gray;
+    justify-content: center;
+    margin:0px;
 }
 
 .bar
