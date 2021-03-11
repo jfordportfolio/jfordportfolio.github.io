@@ -28,6 +28,10 @@ a
     height:45px;
     width:100%;
     background-color:black;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .dropdown
