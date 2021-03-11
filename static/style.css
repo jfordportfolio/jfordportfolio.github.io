@@ -10,6 +10,16 @@ a
     color: #0083e8;
 }
 
+.toppage
+{
+    position:fixed;
+}
+
+.bar
+{
+    position:fixed;
+}
+
 .dropdown
 {
   position: relative;
