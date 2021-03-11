@@ -21,6 +21,15 @@ h2
     color:white;
 }
 
+p
+{ 
+    postition:relative;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+
+
 .toppage
 {
     position:fixed;
