@@ -44,7 +44,6 @@ p
     left: 0;
     right: 0;
     justify-content: center;
-    margin:0px 0px 0px 0px;
     padding-left: 20px;
     height:80px;
     background-color:white;
@@ -63,7 +62,6 @@ p
     display: flex;
     justify-content: center;
     align-items: center;
-    margin:0px 0px 0px 0px;
 }
 
 .dropdown
@@ -119,5 +117,4 @@ footer
     right: 0;
     height: 30px;
     background-color: gray;
-    margin:0px 0px 0px 0px;
 }
