@@ -18,6 +18,7 @@ a
 .bar
 {
     position:fixed;
+    background-color:black;
 }
 
 .dropdown
