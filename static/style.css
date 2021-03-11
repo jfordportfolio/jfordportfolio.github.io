@@ -48,10 +48,18 @@ p
     align-items: center;
 }
 
+.navig
+{
+    position:sticky;
+    top:80%;
+    height:45px;
+    width:100%;
+    background-color:black;
+}
+
 .dropdown
 {
-  position: absolute;
-  left:10;
+  position: relative;
   display: inline-block;
 }
 
