@@ -22,7 +22,7 @@ h2
 
 p
 { 
-    postition:relative;
+    postition:static;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 32px;
 }
