@@ -25,6 +25,7 @@ h3
 {
     font-size:32px;
 }
+
 p
 { 
     postition:static;
@@ -42,11 +43,11 @@ p
     top: 0;
     left: 0;
     right: 0;
-    background-color: gray;
     justify-content: center;
     margin:0px 0px 0px 0px;
     padding-left: 20px;
     height:80px;
+    background-color:white;
 }
 
 .bar
@@ -68,7 +69,7 @@ p
 .dropdown
 {
   position: absolute;
-  left: 50px;
+  left: 5px;
   display: inline-block;
 }
 
