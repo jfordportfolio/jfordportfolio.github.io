@@ -69,9 +69,11 @@ p
 {
     border-style:solid;
     height:34px;
-    width:200px;
+    width:400px;
     margin-top:40px;
+    display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .dropdown
