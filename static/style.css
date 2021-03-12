@@ -68,7 +68,9 @@ p
 .cat
 {
     border-style:solid;
+    height:34px;
     width:200px;
+    justify-content: center;
 }
 
 .dropdown
