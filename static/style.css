@@ -101,7 +101,7 @@ p
 .workimg
 {
     height:80px;
-    width:240px;
+    width:auto;
     float:left;
 }
 
