@@ -90,6 +90,25 @@ p
 .clickable
 {
     border-style:solid;
+    height:120px;
+    width:450px;
+    display:inline-block;
+    margin-top:30px;
+    margin-left:60px;
+    text-align:left;
+}
+
+.workimg
+{
+    height:120px;
+    width:120px;
+    float:left;
+    overflow:hidden;
+}
+
+.clickable2
+{
+    border-style:solid;
     height:100px;
     width:300px;
     display:inline-block;
@@ -98,7 +117,7 @@ p
     text-align:left;
 }
 
-.workimg
+.workimg2
 {
     height:100px;
     width:100px;
