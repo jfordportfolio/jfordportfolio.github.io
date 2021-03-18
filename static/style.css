@@ -12,6 +12,14 @@ main
     overflow:hidden;
 }
 
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 a
 {
     color: #0083e8;
