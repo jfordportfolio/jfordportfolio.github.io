@@ -83,8 +83,8 @@ p
     width:400px;
     margin-top:80px;
     display: flex;
-    justify-content: center;
-    align-items: left;
+    justify-content: left;
+    align-items: center;
 }
 
 .clickable
