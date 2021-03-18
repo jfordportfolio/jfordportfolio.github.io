@@ -98,6 +98,12 @@ p
     text-align:left;
 }
 
+.workimg
+{
+    height:80px;
+    width:240px;
+}
+
 .workcontainer
 {
     justify-content: center;
