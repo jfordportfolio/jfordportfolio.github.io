@@ -90,8 +90,8 @@ p
 .clickable
 {
     border-style:solid;
-    height:80px;
-    width:240px;
+    height:100px;
+    width:300px;
     display:inline-block;
     margin-top:30px;
     margin-left:60px;
@@ -100,8 +100,8 @@ p
 
 .workimg
 {
-    height:80px;
-    width:80px;
+    height:100px;
+    width:100px;
     float:left;
     overflow:hidden;
 }
