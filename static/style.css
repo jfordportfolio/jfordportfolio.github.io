@@ -87,6 +87,21 @@ p
     align-items: center;
 }
 
+.clickable
+{
+    border-style:solid;
+    height:40px;
+    width:120px;
+    display:inline-block;
+    margin-left:60px;
+}
+
+.workcontainer
+{
+    justify-content: center;
+    align-items: center;
+}
+
 .dropdown
 {
   position: absolute;
