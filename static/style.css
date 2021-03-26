@@ -1,6 +1,6 @@
 body
 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.5;
 }
 
@@ -25,6 +25,11 @@ a
     color: #0083e8;
 }
 
+h1
+{
+    padding-left:20px;
+}
+
 h2
 {
     position:relative;
@@ -47,18 +52,6 @@ p
 .imgcontainer
 {
     text-align:center;
-}
-
-.toppage
-{
-    position:static;
-    width:100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    justify-content: center;
-    height:80px;
-    background-color:white;
 }
 
 .bar
