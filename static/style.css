@@ -70,6 +70,7 @@ p
     overflow:auto;
     height:116px;
     color:black;
+    scrollbar-color:#654321 #F0F0D1;
 }
 
 .imgcontainer
