@@ -101,6 +101,7 @@ p
     margin-top:30px;
     margin-left:60px;
     text-align:left;
+    overflow:auto;
 }
 
 .workimg
@@ -109,6 +110,7 @@ p
     width:120px;
     float:left;
     overflow:hidden;
+    margin-right:5px;
 }
 
 .clickable2
