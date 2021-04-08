@@ -58,7 +58,8 @@ p
 
 .description
 {
-    padding:3px;
+    padding-left:4px;
+    padding-top:4px;
     text-align: left;
     font-size: 18px;
     overflow:auto;
