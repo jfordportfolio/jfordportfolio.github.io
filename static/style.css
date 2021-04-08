@@ -144,6 +144,7 @@ p
     width:100px;
     float:left;
     overflow:hidden;
+    margin-right:5px;
 }
 
 .workcontainer
@@ -192,13 +193,13 @@ p
   cursor: pointer;
 }
 
-::-webkit-scrollbar-track {
+-webkit-scrollbar-track {
   background:#654321;
   box-shadow: inset 0 0 5px grey; 
   border-radius: 4px;
 }
  
-::-webkit-scrollbar-thumb {
+-webkit-scrollbar-thumb {
   background: #F0F0D1; 
   border-radius: 4px;
 }
