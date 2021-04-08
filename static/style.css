@@ -53,7 +53,7 @@ p
     postition:static;
     font-size: 18px;
     color: black;
-    padding:3px;
+    margin:3px;
 }
 
 .description
@@ -64,7 +64,6 @@ p
     overflow:auto;
     height:120px;
     color:black;
-    border-left-style: solid;
 }
 
 .imgcontainer
