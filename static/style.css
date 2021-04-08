@@ -56,7 +56,8 @@ p
 {
     margin-left:20px;
     text-align: left;
-    font-size: 14px;
+    font-size: 18px;
+    overflow:auto;
 }
 
 .imgcontainer
