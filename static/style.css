@@ -22,7 +22,10 @@ img
 
 a
 {
-    color: #0083e8;
+    color: black;
+}
+a:hover {
+  color: gray;
 }
 
 h1
