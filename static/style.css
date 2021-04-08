@@ -29,6 +29,8 @@ img
 a
 {
     color: black;
+    height:120px;
+    width:450px;
 }
 a:hover
 {
