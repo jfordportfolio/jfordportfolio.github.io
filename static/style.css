@@ -23,11 +23,11 @@ img
 
 a
 {
-    color: #654321;
+    color: black;
 }
 a:hover
 {
-    color: black;
+    color: #654321;
 }
 
 h1
@@ -64,6 +64,7 @@ p
     overflow:auto;
     height:120px;
     color:black;
+    border-left-style: solid;
 }
 
 .imgcontainer
