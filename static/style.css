@@ -2,7 +2,7 @@ body
 {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
-    background-color: F0F0D1;
+    background-color: #F0F0D1;
 }
 
 main
@@ -27,7 +27,7 @@ a
 }
 a:hover
 {
-    color: F2F2D3;
+    color: #60601f;
 }
 
 h1
