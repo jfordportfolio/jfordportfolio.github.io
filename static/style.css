@@ -24,8 +24,9 @@ a
 {
     color: black;
 }
-a:hover {
-  color: gray;
+a:hover
+{
+    color: blue;
 }
 
 h1
