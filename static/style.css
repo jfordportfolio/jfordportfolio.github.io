@@ -65,6 +65,7 @@ p
 {
     padding-left:4px;
     padding-top:4px;
+    padding-right:4px;
     text-align: left;
     font-size: 18px;
     overflow:auto;
@@ -114,7 +115,6 @@ p
     width:450px;
     display:inline-block;
     margin-top:30px;
-    margin-left:60px;
     text-align:center;
 }
 
