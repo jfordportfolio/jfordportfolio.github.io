@@ -148,8 +148,6 @@ p
   position: absolute;
   left: 5px;
   display: inline-block;
-  background-color: #654321;
-  color:#F0F0D1;
 }
 
 .dropdown-content
@@ -176,17 +174,14 @@ p
 
 .dropbtn
 {
-  background-color: black;
+  background-color: #654321;
+  color:#F0F0D1;
   border: none;
   border-radius: 50%;
   color: white;
   padding: 12px 16px;
   font-size: 16px;
   cursor: pointer;
-}
-.dropbtn:hover
-{
-  background-color: gray;
 }
 
 footer
