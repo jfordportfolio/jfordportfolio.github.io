@@ -23,11 +23,11 @@ img
 
 a
 {
-    color: black;
+    color: #60601f;
 }
 a:hover
 {
-    color: #60601f;
+    color: black;
 }
 
 h1
@@ -38,7 +38,7 @@ h1
 h2
 {
     position:relative;
-    color:white;
+    color:#F0F0D1;
 }
 
 h3
@@ -60,7 +60,7 @@ p
     font-size: 18px;
     overflow:auto;
     height:120px;
-    color:black;
+    color:#60601f;
 }
 
 .imgcontainer
@@ -76,7 +76,7 @@ p
     right: 0;
     height:45px;
     width:100%;
-    background-color:black;
+    background-color:#60601f;
     
     display: flex;
     justify-content: center;
@@ -93,6 +93,8 @@ p
     justify-content: left;
     align-items: center;
     padding-left:3px;
+    color: #F0F0D1;
+    background-color:#60601f;
 }
 
 .clickable
@@ -151,7 +153,7 @@ p
 {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #F0F0D1;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
