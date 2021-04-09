@@ -29,8 +29,6 @@ img
 a
 {
     color: black;
-    max-width:450px;
-    display:inline-block;
 }
 a:hover
 {
@@ -199,17 +197,23 @@ p
   cursor: pointer;
 }
 
--webkit-scrollbar-track {
+-webkit-scrollbar-track
+{
   background:#654321;
   box-shadow: inset 0 0 5px grey; 
   border-radius: 4px;
 }
  
--webkit-scrollbar-thumb {
+-webkit-scrollbar-thumb
+{
   background: #F0F0D1; 
   border-radius: 4px;
 }
 
+.worklink
+{
+    width:450px;
+}
 
 footer
 {
