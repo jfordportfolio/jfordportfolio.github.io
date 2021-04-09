@@ -30,7 +30,7 @@ a
 {
     color: black;
     max-width:450px;
-    display:block;
+    display:inline-block;
 }
 a:hover
 {
