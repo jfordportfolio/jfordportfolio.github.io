@@ -87,7 +87,7 @@ p
     left: 0px;
     right: 0px;
     height:7%;
-    width:100% !important;
+    width:100%;
     background-color:#654321;
     
     display: flex;
