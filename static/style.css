@@ -211,15 +211,6 @@ p
   border-radius: 4px;
 }
 
-.worklink
-{
-    display:inline-block;
-    margin-left:20px;
-    margin-right:20px;
-    max-height:100px;
-    max-width:300px;
-}
-
 footer
 {
     position: fixed; 
