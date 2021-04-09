@@ -29,6 +29,7 @@ img
 a
 {
     color: black;
+    max-width:450px;
 }
 a:hover
 {
