@@ -8,7 +8,6 @@ body
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
     background-color: #F0F0D1;
-    width:100%;
 }
 
 main
@@ -86,7 +85,7 @@ p
     top: 0px;
     left: 0px;
     right: 0px;
-    height:10%;
+    height:7%;
     width:100%;
     background-color:#654321;
     
