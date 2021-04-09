@@ -8,6 +8,7 @@ body
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
     background-color: #F0F0D1;
+    width:100%;
 }
 
 main
@@ -82,7 +83,7 @@ p
 .bar
 {
     position:sticky;
-    top:0px;
+    top: 0px;
     left: 0;
     right: 0;
     height:45px;
