@@ -169,6 +169,12 @@ p
     border-style: solid;
     border-color: #654321;
     font-size: 32px;
+    text-decoration: none;
+}
+.checkitout:hover
+{
+    background-color: #654321;
+    color: #F0F0D1;
 }
 
 .dropdown
