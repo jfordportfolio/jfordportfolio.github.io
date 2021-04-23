@@ -76,6 +76,19 @@ p
     scrollbar-color:#654321 #F0F0D1;
 }
 
+.description2
+{
+    padding-left:4px;
+    padding-top:4px;
+    padding-right:4px;
+    text-align: left;
+    font-size: 18px;
+    overflow:auto;
+    height:96px;
+    color:black;
+    scrollbar-color:#654321 #F0F0D1;
+}
+
 .imgcontainer
 {
     text-align:center;
